@@ -14,15 +14,13 @@ Here is the link of the challange-
 https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd
 
 Here is the solution site url-
-https://drougnov.github.io/fylo-landing-page-with-dark-theme-and-features-grid-master/
+https://drougnov.github.io/fylo-dark-theme-landing-page-master/
 
 ## Built with
 
 -HTML
 
--CSS Flexbox
-
--CSS Grid
+-CSS
 
 -Javascript
 
